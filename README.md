@@ -1,2 +1,4 @@
-# hello-world
-hello world sample programs
+Public static void main(String args[])
+{
+  World
+}
